@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sumitkumar78
+- 👋 Hi, I’m @SumitKumar
 - 👀 I’m interested in Web development and Data Structure 
 - 🌱 I’m currently learning Data Structure
 - 💞️ I’m looking to collaborate on Project Related to Web Development 
